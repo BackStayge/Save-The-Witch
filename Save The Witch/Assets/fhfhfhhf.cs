@@ -8,15 +8,15 @@ public class fhfhfhhf : MonoBehaviour
     void Start()
     {
         // futa sex
-        //
-        //
+        // мать егора шлюха
+        // егор гей
     }
 
     // Update is called once per frame
     void Update()
     {
-        //
-        //
+        // саня ебет себя в жопу
+        // егор лох
         //qwerty
     }
 }
