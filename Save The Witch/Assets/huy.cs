@@ -8,10 +8,10 @@ public class huy : MonoBehaviour
     void Start()
     {
         //sex with femboy
-        //
+        // хуй
         Debug.LogError("Егор чмо");//
-        //
-        //
+        // говно
+        //залупа
     }
 
 
@@ -21,10 +21,10 @@ public class huy : MonoBehaviour
     void Update()
     {
         // gitler love
-    }//
-    //
-    //
-    //
+    }//пиздец
+    //мразь
+    //гнида
+    //какой же я пиздатый
 
 
     //gay
