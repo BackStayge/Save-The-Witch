@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\herob\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Save The Witch\\Save-The-Witch\\Save The Witch\\",
+  "WorkspaceRootPath": "C:\\Users\\345\u0411\\Desktop\\Save-The-Witch\\Save The Witch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A753790-343C-0B81-7D18-1681CF1E7599}|Assembly-CSharp.csproj|C:\\Users\\herob\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Save The Witch\\Save-The-Witch\\Save The Witch\\assets\\huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D439F682-D822-79BE-58E1-27FFB680D4D4}|Assembly-CSharp-Editor.csproj|c:\\users\\345\u0431\\desktop\\save-the-witch\\save the witch\\assets\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D439F682-D822-79BE-58E1-27FFB680D4D4}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A753790-343C-0B81-7D18-1681CF1E7599}|Assembly-CSharp.csproj|c:\\users\\345\u0431\\desktop\\save-the-witch\\save the witch\\assets\\huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A753790-343C-0B81-7D18-1681CF1E7599}|Assembly-CSharp.csproj|solutionrelative:assets\\huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A753790-343C-0B81-7D18-1681CF1E7599}|Assembly-CSharp.csproj|c:\\users\\herob\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\save the witch\\save-the-witch\\save the witch\\assets\\fhfhfhhf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A753790-343C-0B81-7D18-1681CF1E7599}|Assembly-CSharp.csproj|C:\\Users\\345\u0411\\Desktop\\Save-The-Witch\\Save The Witch\\assets\\fhfhfhhf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A753790-343C-0B81-7D18-1681CF1E7599}|Assembly-CSharp.csproj|solutionrelative:assets\\fhfhfhhf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,28 +22,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "fhfhfhhf.cs",
-              "DocumentMoniker": "C:\\Users\\herob\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Save The Witch\\Save-The-Witch\\Save The Witch\\Assets\\fhfhfhhf.cs",
-              "RelativeDocumentMoniker": "Assets\\fhfhfhhf.cs",
-              "ToolTip": "C:\\Users\\herob\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Save The Witch\\Save-The-Witch\\Save The Witch\\Assets\\fhfhfhhf.cs",
-              "RelativeToolTip": "Assets\\fhfhfhhf.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "DocumentIndex": 0,
+              "Title": "ReadmeEditor.cs",
+              "DocumentMoniker": "C:\\Users\\345\u0411\\Desktop\\Save-The-Witch\\Save The Witch\\Assets\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ToolTip": "C:\\Users\\345\u0411\\Desktop\\Save-The-Witch\\Save The Witch\\Assets\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T18:16:58.446Z",
+              "WhenOpened": "2024-06-04T14:21:39.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "fhfhfhhf.cs",
+              "DocumentMoniker": "C:\\Users\\345\u0411\\Desktop\\Save-The-Witch\\Save The Witch\\Assets\\fhfhfhhf.cs",
+              "RelativeDocumentMoniker": "Assets\\fhfhfhhf.cs",
+              "ToolTip": "C:\\Users\\345\u0411\\Desktop\\Save-The-Witch\\Save The Witch\\Assets\\fhfhfhhf.cs",
+              "RelativeToolTip": "Assets\\fhfhfhhf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:16:58.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "huy.cs",
-              "DocumentMoniker": "C:\\Users\\herob\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Save The Witch\\Save-The-Witch\\Save The Witch\\Assets\\huy.cs",
+              "DocumentMoniker": "C:\\Users\\345\u0411\\Desktop\\Save-The-Witch\\Save The Witch\\Assets\\huy.cs",
               "RelativeDocumentMoniker": "Assets\\huy.cs",
-              "ToolTip": "C:\\Users\\herob\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Save The Witch\\Save-The-Witch\\Save The Witch\\Assets\\huy.cs",
+              "ToolTip": "C:\\Users\\345\u0411\\Desktop\\Save-The-Witch\\Save The Witch\\Assets\\huy.cs",
               "RelativeToolTip": "Assets\\huy.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
